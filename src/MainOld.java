@@ -10,6 +10,7 @@ class MainOld {
 
         Cat cat = new Cat();
         cat.meaow();
+        cat.meaow();
 
         Cat catBarsik = new Cat("Barsik");
         catBarsik.meaow();
